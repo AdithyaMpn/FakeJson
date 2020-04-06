@@ -1,5 +1,5 @@
 {
-  "posts":[
+  "posts": [
   {
     "userName": "Adithya",
     "vehicleName": "Lamborghini",
@@ -39,5 +39,12 @@
     "time": "Today, 14:00",
     "rating" :"3.8",
     "imageUri":""
-  }]
+  }],
+    "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
