@@ -1,0 +1,41 @@
+[
+  {
+    "userName": "Adithya",
+    "vehicleName": "Lamborghini",
+    "price": "500 Points",
+    "time": "Today, 09:00",
+    "rating" :"5.0",
+    "imageUri":""
+  },
+  {
+    "userName": "Joe",
+    "vehicleName": "Porsche",
+    "price": "400 Points",
+    "time": "Today, 10:00",
+    "rating" :"5.0",
+    "imageUri":""
+  },
+  {
+    "userName": "Akil",
+    "vehicleName": "McClaren",
+    "price": "300 Points",
+    "time": "Today, 08:00",
+    "rating" :"4.5",
+    "imageUri":""
+  },
+  {
+    "userName": "John",
+    "vehicleName": "BMW",
+    "price": "200 Points",
+    "time": "Today, 12:00",
+    "rating" :"4.7",
+    "imageUri":""
+  },
+  {
+    "userName": "Emma Watson",
+    "vehicleName": "Audi",
+    "price": "150 Points",
+    "time": "Today, 14:00",
+    "rating" :"3.8",
+    "imageUri":""
+  }]
