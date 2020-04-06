@@ -5,6 +5,8 @@
     "vehicleName": "Lamborghini",
     "price": "500 Points",
     "time": "Today, 09:00",
+    "pickup_distance":"20m",
+    "drop_distance":"100m",
     "rating" :"5.0",
     "imageUri":""
   },
@@ -13,7 +15,9 @@
     "vehicleName": "Porsche",
     "price": "400 Points",
     "time": "Today, 10:00",
-    "rating" :"5.0",
+    "pickup_distance":"60m",
+    "drop_distance":"75m",
+    "rating" :"5.0"
     "imageUri":""
   },
   {
@@ -21,6 +25,8 @@
     "vehicleName": "McClaren",
     "price": "300 Points",
     "time": "Today, 08:00",
+    "pickup_distance":"45m",
+    "drop_distance":"50m",
     "rating" :"4.5",
     "imageUri":""
   },
@@ -29,6 +35,8 @@
     "vehicleName": "BMW",
     "price": "200 Points",
     "time": "Today, 12:00",
+    "pickup_distance":"60m",
+    "drop_distance":"120m",
     "rating" :"4.7",
     "imageUri":""
   },
@@ -37,6 +45,8 @@
     "vehicleName": "Audi",
     "price": "150 Points",
     "time": "Today, 14:00",
+    "pickup_distance":"50m",
+    "drop_distance":"80m",
     "rating" :"3.8",
     "imageUri":""
   }],
