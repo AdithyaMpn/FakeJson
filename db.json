@@ -8,7 +8,7 @@
     "pickup_distance":"20m",
     "drop_distance":"100m",
     "rating" :"5.0",
-    "imageUri":"https://drive.google.com/open?id=1-DYG2G3O-uyXaYP2oK3j4sgE6ZBSIPfA"
+    "imageUri":"https://storage.googleapis.com/userimagesgeoride/adi.jpg"
   },
   {
     "userName": "Joe",
@@ -18,27 +18,27 @@
     "pickup_distance":"60m",
     "drop_distance":"75m",
     "rating" :"5.0",
-    "imageUri":""
+    "imageUri":"https://storage.googleapis.com/userimagesgeoride/joe.jfif"
   },
   {
-    "userName": "Akil",
+    "userName": "Zuckerberg",
     "vehicleName": "McClaren",
     "price": "300 Points",
     "time": "Today, 08:00",
     "pickup_distance":"45m",
     "drop_distance":"50m",
     "rating" :"4.5",
-    "imageUri":""
+    "imageUri":"https://storage.googleapis.com/userimagesgeoride/zuckerberg.jfif"
   },
   {
-    "userName": "John",
+    "userName": "Steve",
     "vehicleName": "BMW",
     "price": "200 Points",
     "time": "Today, 12:00",
     "pickup_distance":"60m",
     "drop_distance":"120m",
     "rating" :"4.7",
-    "imageUri":""
+    "imageUri":"https://storage.googleapis.com/userimagesgeoride/steve.jfif"
   },
   {
     "userName": "Emma Watson",
@@ -48,7 +48,7 @@
     "pickup_distance":"50m",
     "drop_distance":"80m",
     "rating" :"3.8",
-    "imageUri":""
+    "imageUri":"https://storage.googleapis.com/userimagesgeoride/emma.jpg"
   }],
     "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
