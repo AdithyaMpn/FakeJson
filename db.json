@@ -23,10 +23,10 @@
     "drop_distance":"75m",
     "rating" :"5.0",
     "imageUri":"https://storage.googleapis.com/userimagesgeoride/joe.jfif",
-    "startLatitude":12.9451,
-    "startLongitude":77.6981,
-    "endLatitude":12.9245,
-    "endLongitude":77.6737
+    "startLatitude":12.9214,
+    "startLongitude":77.6582,
+    "endLatitude":12.9502,
+    "endLongitude":77.7007
   },
   {
     "userName": "Zuckerberg",
