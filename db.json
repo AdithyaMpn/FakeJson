@@ -8,7 +8,11 @@
     "pickup_distance":"20m",
     "drop_distance":"100m",
     "rating" :"5.0",
-    "imageUri":"https://storage.googleapis.com/userimagesgeoride/adi.jpg"
+    "imageUri":"https://storage.googleapis.com/userimagesgeoride/adi.jpg",
+    "startLatitude":12.9451,
+    "startLongitude":77.6981,
+    "endLatitude":12.9245,
+    "endLongitude":77.6737
   },
   {
     "userName": "Joe",
