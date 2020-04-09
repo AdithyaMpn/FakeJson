@@ -3,7 +3,7 @@
   {
     "userName": "Adithya",
     "vehicleName": "Lamborghini",
-    "price": "5",
+    "price": "8",
     "time": "Today, 09:00",
     "pickup_distance":"20m",
     "drop_distance":"100m",
@@ -17,42 +17,72 @@
   {
     "userName": "Joe",
     "vehicleName": "Porsche",
-    "price": "400 Points",
+    "price": "4",
     "time": "Today, 10:00",
     "pickup_distance":"60m",
     "drop_distance":"75m",
     "rating" :"5.0",
-    "imageUri":"https://storage.googleapis.com/userimagesgeoride/joe.jfif"
+    "imageUri":"https://storage.googleapis.com/userimagesgeoride/joe.jfif",
+    "startLatitude":12.9451,
+    "startLongitude":77.6981,
+    "endLatitude":12.9245,
+    "endLongitude":77.6737
   },
   {
     "userName": "Zuckerberg",
     "vehicleName": "McClaren",
-    "price": "300 Points",
+    "price": "6",
     "time": "Today, 08:00",
     "pickup_distance":"45m",
     "drop_distance":"50m",
     "rating" :"4.5",
-    "imageUri":"https://storage.googleapis.com/userimagesgeoride/zuckerberg.jfif"
+    "imageUri":"https://storage.googleapis.com/userimagesgeoride/zuckerberg.jfif",
+    "startLatitude":13.0260,
+    "startLongitude":77.6401,
+    "endLatitude":12.9992,
+    "endLongitude":77.6748
   },
   {
     "userName": "Steve",
     "vehicleName": "BMW",
-    "price": "200 Points",
+    "price": "5",
     "time": "Today, 12:00",
     "pickup_distance":"60m",
     "drop_distance":"120m",
     "rating" :"4.7",
-    "imageUri":"https://storage.googleapis.com/userimagesgeoride/steve.jfif"
+    "imageUri":"https://storage.googleapis.com/userimagesgeoride/steve.jfif",
+    "startLatitude":13.0219,
+    "startLongitude":77.7147,
+    "endLatitude":13.0026,
+    "endLongitude":77.6824
   },
   {
     "userName": "Emma Watson",
     "vehicleName": "Audi",
-    "price": "150 Points",
+    "price": "7",
     "time": "Today, 14:00",
     "pickup_distance":"50m",
     "drop_distance":"80m",
     "rating" :"3.8",
-    "imageUri":"https://storage.googleapis.com/userimagesgeoride/emma.jpg"
+    "imageUri":"https://storage.googleapis.com/userimagesgeoride/emma.jpg",
+    "startLatitude":12.9535,
+    "startLongitude":77.7003,
+    "endLatitude":12.9261,
+    "endLongitude":77.6740
+  },
+  {
+    "userName": "Unknown",
+    "vehicleName": "Nano",
+    "price": "3",
+    "time": "Today, 16:00",
+    "pickup_distance":"90m",
+    "drop_distance":"20m",
+    "rating" :"NA",
+    "imageUri":"",
+    "startLatitude":12.9672,
+    "startLongitude":77.7505,
+    "endLatitude":12.9262,
+    "endLongitude":77.7387
   }],
     "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
